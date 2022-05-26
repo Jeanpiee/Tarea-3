@@ -1,0 +1,6 @@
+El numero de filaas y columnas de n1.txt son: 97, 80.
+El numero de filaas y columnas de n10.txt son: 14, 20.
+El numero de filaas y columnas de n11.txt son: 270, 91.
+El numero de filaas y columnas de n12.txt son: 7, 72.
+El numero de filaas y columnas de n13.txt son: 61, 17.
+El numero de filaas y columnas de n14.txt son: 35, 15.
