@@ -20,7 +20,7 @@
       *sirve para rrecorer 
       
       
-      # Tarea-3 Part_2
+# Tarea-3 Part_2
 
 1.Para empezar se utilizo el programa Git Bash 
 2. Seguidoi se ubico en la ruta  : HP@DESKTOP-ARATL58 MINGW64 ~/documents/CSB-master/unix/data/Saavedra2013 
