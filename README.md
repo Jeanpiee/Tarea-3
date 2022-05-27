@@ -22,8 +22,6 @@
       
       # Tarea-3 Part_2
 
-# Pasos para realizar la tarea  N.3
-
 1.Para empezar se utilizo el programa Git Bash 
 2. Seguidoi se ubico en la ruta  : HP@DESKTOP-ARATL58 MINGW64 ~/documents/CSB-master/unix/data/Saavedra2013 
 3. touch netsize_all.sh 
